@@ -5,6 +5,7 @@ This is a simple maze game implemented in python which uses hand gestures for co
 ## Getting Started
 to start the game, execute following command.
 > python 'Maze Game.py'
+
 I've shown all the controls as well as the instructions to follow in the game.
 # NOTE: This is a computer-vision based application, so Illumination as well as the background plays a huge role.
 To understand more, read the documentation in the given pdf.
@@ -14,4 +15,5 @@ for conversion, execute following command.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Device: Camera
+Libraries: arcade, opencv, cx_Freeze (only for conversion)
