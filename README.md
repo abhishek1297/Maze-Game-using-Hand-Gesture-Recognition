@@ -18,5 +18,6 @@ for conversion, execute following command.
 Device: Camera
 
 Libraries: arcade, opencv, cx_Freeze (only for conversion)
+
 #read the damn pdf
 
