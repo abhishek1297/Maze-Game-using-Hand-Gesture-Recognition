@@ -1,5 +1,6 @@
 # Maze Game using Hand Gesture Recognition
 
+Documentation: [doc_project.pdf](doc_project.pdf)
 This is a simple maze game implemented in python which uses hand gestures for controls.
 
 ## Getting Started
